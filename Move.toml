@@ -1,4 +1,4 @@
-s[package]
+[package]
 name = "blsh"
 version = "1.0.0"
 authors = []
